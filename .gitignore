@@ -1,3 +1,6 @@
 **/__pycache__/
 
 .env
+/output
+models/kokoro-v0_19.onnx
+models/voices.bin
